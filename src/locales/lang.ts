@@ -1,1 +1,1 @@
-export const supportedLocales = ["en", "no", "zh", "es"];
+export const supportedLocales = ["en", "no", "zh", "es", "ru"];
