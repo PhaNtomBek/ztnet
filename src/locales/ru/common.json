@@ -11,63 +11,63 @@
 	},
 	"sidebar": {
 		"navigation": "Navigation",
-		"dashboard": "Dashboard",
-		"networks": "Local Controller",
+		"dashboard": "Панель",
+		"networks": "Локальный Контроллер",
 		"ztCentral": "ZT Central",
 		"admin": "Admin",
-		"settings": "Settings",
-		"mail": "Mail",
-		"users": "Users",
-		"notification": "Notification",
-		"controller": "ZT Controller",
-		"account": "Account",
-		"user-settings": "User Settings",
-		"logout": "Logout"
+		"settings": "Настройки",
+		"mail": "Почта",
+		"users": "Пользователи",
+		"notification": "Уведомления",
+		"controller": "ZT Контроллер",
+		"account": "Аккаунт",
+		"user-settings": "Настройки пользователей",
+		"logout": "Выход"
 	},
 	"networks": {
 		"loading": "Loading",
-		"title": "Networks",
-		"description": "VPN Networks",
-		"addNetworkButton": "Create a network",
-		"noNetworksMessage": "No networks have been created yet. Start by creating one and it will appear here."
+		"title": "Сети",
+		"description": "VPN Сети",
+		"addNetworkButton": "Создать сеть",
+		"noNetworksMessage": "Сети еще не созданы. Создайте сеть и она отобразится здесь."
 	},
 	"networksTable": {
-		"name": "Name",
-		"description": "Description",
-		"networkId": "Network ID",
-		"members": "Members",
-		"networkSearchPlaceholder": "Search for a network"
+		"name": "Имя",
+		"description": "Описание",
+		"networkId": "ID Сети",
+		"members": "Участники",
+		"networkSearchPlaceholder": "Найти сеть"
 	},
 	"tableFooter": {
-		"show": "Show",
-		"page": "Page",
-		"of": "of"
+		"show": "Показать",
+		"page": "Страница",
+		"of": "из"
 	},
 	"modalLayout": {
-		"yesButton": "Yes",
-		"cancelButton": "Cancel",
-		"closeButton": "Close"
+		"yesButton": "Да",
+		"cancelButton": "Отмена",
+		"closeButton": "Закрыть"
 	},
 	"networkById": {
-		"loading": "Loading...",
+		"loading": "Загрузка...",
 		"errorSteps": {
-			"step1": "Verify that the ZeroTier container is operational",
-			"step2": "If other instances of ZeroTier are active locally, please deactivate them as it might cause conflicts."
+			"step1": "Убедитесь, что контейнер ZeroTier работает",
+			"step2": "Если другие экземпляры ZeroTier активны локально, деактивируйте их, поскольку это может вызвать конфликты."
 		},
-		"networkId": "Network ID:",
-		"networkName": "Network Name:",
-		"addDescription": "Add description",
-		"descriptionPlaceholder": "Description",
+		"networkId": "ID Сети:",
+		"networkName": "Имя сети:",
+		"addDescription": "Добавить описание",
+		"descriptionPlaceholder": "Описание",
 		"networkStart": "Network Start:",
 		"notSet": "not set",
 		"networkEnd": "Network End:",
 		"networkCidr": "Network Cidr:",
-		"networkSettings": "Network Settings",
-		"networkMembers": "Network Members",
+		"networkSettings": "Настройки сети",
+		"networkMembers": "Участники сети",
 		"networkMembersAlert": {
-			"message": "Join this network ID and the device will automatically be displayed"
+			"message": "Присоединитесь к этому идентификатору сети, и устройство будет автоматически отобразится."
 		},
-		"viewStashedMembers": "View stashed members",
+		"viewStashedMembers": "Просмотре спрятанных участников",
 		"networkActions": "Network Actions",
 		"deleteNetwork": {
 			"title": "Delete network",
